@@ -1,0 +1,21 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  background: #343a40;
+}
+.content {
+  flex: 1 0 auto;
+}
+footer {
+  flex-shrink: 0;
+}
+
+
+
